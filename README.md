@@ -1,3 +1,3 @@
-# ml_ejemplos-poliza_seg_med-datos
+# ml_ejemplos
 Machine Learning (ML)
 Health_Insurance_Cross_sell_prediction
